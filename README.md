@@ -24,7 +24,7 @@
 
 1.Generative AI Demo Core Part:
 <div align=center>
-<img src="src/Final Project (2).jpg" width="750px">
+<img src="src/Final Project (2)(1).jpg" width="750px">
 </div>
 
 2.Full Stack MVP Product Part:
